@@ -6,11 +6,12 @@ I'm **Josimar Madrigal**, a Costa Rican student, scout and developer interested 
 
 > *You probably won't find a lot here. I usually keep my repositories private, but I hope you like what you see.*
 
-* Top 5 National STEM Fair Finalist — Costa Rica, 2025
-* Developer of Moody, an AAC communication app
-* Cisco Networking Academy Certified
-* Stanford Code in Place 2026 Graduate
-* Youth Ambassadors Program Exchange Alumnus
-* Robotics Enthusiast, SUMOBOT participant
-* Network Support and Operating Systems Student
-* Interested in Computer Science and Engineering
+- Featured in a Georgetown University CIED Case Study
+- Access Microscholarship Program Alumnus
+- Creator and Lead Developer of Moody, an AAC Communication App
+- Cisco Networking Academy Certified
+- Stanford Code in Place 2026 Graduate
+- Youth Ambassadors Program Alumnus (U.S. Department of State)
+- Robotics and STEM Enthusiast
+- Technical Student in Network Configuration, Support, and Operating Systems
+- Aspiring Computer Scientist and Software Engineer
